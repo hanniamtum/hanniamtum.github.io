@@ -1,0 +1,22 @@
+.text-gappembar {
+  color: rgb(0, 214, 46);
+}
+.text-tujuan {
+  font-size: 50px;
+}
+.text-beranda {
+  font-size: 50px;
+  color: rgb(0, 214, 46);
+}
+#beranda {
+  margin-top: 13rem;
+}
+#tentang {
+  background-color: #98fb98;
+}
+#galeri {
+  text-align: center;
+}
+.background {
+  margin: 15px;
+}
